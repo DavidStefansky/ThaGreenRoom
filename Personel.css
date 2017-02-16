@@ -1,0 +1,35 @@
+/* Personel*/
+.icon-chat-ambassador + span {
+    color: #84B423 !important;
+}
+.icon-chat-host + span {
+    color: #228B22 !important;
+}
+.icon-chat-cohost + span {
+    color: #228B22 !important;
+}
+.icon-chat-manager + span {
+    color: #68B354 !important;
+}
+.icon-chat-bouncer + span {
+    color: #68B354 !important;
+}
+.icon-chat-dj + span {
+    color: #68B354 !important;
+}
+.icon-chat-host {
+	background: url("https://rawgit.com/DavidStefansky/ThaGreenRoom/master/Wl%C4%85%C5%9Bciciel%2C%20wsp%C3%B3%C5%82w.png") !important;
+}
+.icon-chat-cohost {
+	background: url("https://rawgit.com/DavidStefansky/ThaGreenRoom/master/Wl%C4%85%C5%9Bciciel%2C%20wsp%C3%B3%C5%82w.png") !important;
+}
+.icon-chat-manager {
+	background: url("https://rawgit.com/DavidStefansky/ThaGreenRoom/master/Mened%C5%BCer.png") !important;
+}
+.icon-chat-bouncer {
+	background: url("https://rawgit.com/DavidStefansky/ThaGreenRoom/master/Bramkarz.png") !important;
+}
+.icon-chat-dj {
+	background: url("https://rawgit.com/DavidStefansky/ThaGreenRoom/master/resident.png") !important;
+}
+/* Personel*/
