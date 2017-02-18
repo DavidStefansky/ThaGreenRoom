@@ -2,7 +2,7 @@
           @import url("https://rawgit.com/DavidStefansky/ThaGreenRoom/master/Personel.css");
 
 .app-header, #footer-user .info, #dashboard {
-    background: rgba(0, 0, 0, 0.85) !important;
+    background: rgba(18, 58, 22, 0.77) !important;
 }
 #volume .slider {
     background-color: rgba(0, 0, 0, 0.35) !important;
